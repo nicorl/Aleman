@@ -25,3 +25,7 @@ Juego de preguntas y respuestas para practicar.
 * Was machst du gern?
 
 * Welche ist dein lieblingslied ?
+
+## Vocabulario
+
+[Alimentación](./vocabulario/alimentacion.md)
