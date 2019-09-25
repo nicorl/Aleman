@@ -33,10 +33,25 @@ Para preguntar:
 * Wie viel Uhr ist es?
 
 Para responder:
-* Es ist...
+* Es ist...d
+
+### El pasado
+
+<span style="color:#4287f5"> Im letzten Jahr <b>machte</b> ich Urlaub in Deutschland. Mit dem Fahrrad <b>fuhr</b> ich auf dem Elbe-Radweg von Hamburg bis Dresden. Die Strecke <b>war</b> fantastisch und ich <b>hatte</b> tolles Wetter. </span>
+
+| Persona | sein | haben |
+| ----- | ----- | ---- |
+| ich | war | hatte |
+| du | warst | hattest |
+| er | war | hatte |
+| wir | waren | hatten |
+| ihr | wart | hattet |
+| sie | waren | hatten |
 
 ## Conceptos
 
 La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
 
 La hora - [Gramática](./gramatica/lahora.md)
+
+El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/pasado.md)
