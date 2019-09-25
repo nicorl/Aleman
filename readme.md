@@ -26,6 +26,17 @@ Juego de preguntas y respuestas para practicar.
 
 * Welche ist dein lieblingslied ?
 
-## Vocabulario
+### La hora
 
-[Alimentación](./vocabulario/alimentacion.md)
+Para preguntar:
+* Wie spät ist es?
+* Wie viel Uhr ist es?
+
+Para responder:
+* Es ist...
+
+## Conceptos
+
+La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
+
+La hora - [Gramática](./gramatica/lahora.md)
