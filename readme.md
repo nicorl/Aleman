@@ -54,7 +54,7 @@ La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](.
 
 La hora - [Gramática](./gramatica/lahora.md)
 
-El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/pasado.md)
+El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/vebos-pasado.md)
 
 Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md)
 
