@@ -19,11 +19,40 @@
 
 ## Reglas de uso
 
-_Acusativo:_ <br>
+<span style="color:#4287f5">_Acusativo_:</span> <br>
 Verbos dinámicos.
+
+<span style="color:#4287f5">_Preposiciones con acusativo:_</span>
+
+| Preposición |	Significado |
+| ----- | ----- |
+|bis|	hasta (local o temporal)|
+|durch	|por, a través de (local)|
+|für|	por, para, de (finalidad)|
+|gegen	|contra (local)  <br> hacia, sobre (temporal)|
+| ohne|	sin|
+| um| 	a (temporal)  <br> en (local)|
+|wider|	contra|
+
 
 <hr>
 
-_Dativo:_ <br>
+<span style="color:#32a852">_Dativo:_</span> <br>
 Verbos estáticos. <br>
 Preguntas: <span style="color:#4287f5">Wo ... ?</span>
+
+<span style="color:#32a852">_Preposiciones con dativo:_</span>
+
+|Preposición	|Significado|
+| ----- | ----- |
+|ab|	a partir de, desde|
+|aus|	de (lugar, procedencia)|
+|außer|	sin, excepto|
+|bei|	junto a|
+|entgegen|	en contra de|
+|entsprechend|	según|
+|mit|	con|
+|nach|	hacia, después|
+|seit|	desde|
+|von|	de|
+|zu|	hacia|
