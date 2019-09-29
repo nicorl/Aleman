@@ -40,3 +40,25 @@ L Sie haben zwei Kinder. Was bringe ich _____ mit?
 * J: **mir**. La preposición "mit" rige dativo.
 * K: **dir**. El verbo "mitbringen" rige dativo.
 * L: **ihnen**. El verbo "mitbringen" rige dativo.
+
+
+| Preposición |	Significado | Rige |
+| ----- | ----- | ----- |
+|bis|	hasta (local o temporal)| <span style="color:#4287f5">acusativo</span>  |
+|durch	|por, a través de (local)| <span style="color:#4287f5">acusativo</span>  |
+|für|	por, para, de (finalidad)| <span style="color:#4287f5">acusativo</span>  |
+|gegen	|contra (local)  <br> hacia, sobre (temporal)| <span style="color:#4287f5">acusativo</span>  |
+| ohne|	sin| <span style="color:#4287f5">acusativo</span> |
+| um| 	a (temporal)  <br> en (local)| <span style="color:#4287f5">acusativo</span>  |
+|wider|	contra| <span style="color:#4287f5">acusativo</span>  |
+|ab|	a partir de, desde| <span style="color:#32a852">dativo</span> |
+|aus|	de (lugar, procedencia)| <span style="color:#32a852">dativo</span> |
+|außer|	sin, excepto| <span style="color:#32a852">dativo</span> |
+|bei|	junto a| <span style="color:#32a852">dativo</span> |
+|entgegen|	en contra de| <span style="color:#32a852">dativo</span> |
+|entsprechend|	según| <span style="color:#32a852">dativo</span> |
+|mit|	con| <span style="color:#32a852">dativo</span> |
+|nach|	hacia, después| <span style="color:#32a852">dativo</span> |
+|seit|	desde| <span style="color:#32a852">dativo</span> |
+|von|	de| <span style="color:#32a852">dativo</span> |
+|zu|	hacia| <span style="color:#32a852">dativo</span> |
