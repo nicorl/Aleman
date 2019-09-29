@@ -48,7 +48,7 @@ Para responder:
 | ihr | wart | hattet |
 | sie | waren | hatten |
 
-## Conceptos
+## En detalle
 
 La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
 
