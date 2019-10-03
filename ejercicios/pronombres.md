@@ -1,5 +1,24 @@
 # Ejercicios de pronombres
 
+## Ejercicio 0. Pronombres nominales
+
+<b>Verbo <span style="color:#32a852">sein</span> actúa sobre el sujeto <span style="color:#4287f5">(nominativo)</span>:</b> <br>
+Das ist mein Handy. (das Handy)<br>
+Das ist meine Hand. (die Hand)<br>
+Das ist mein Schlüssel. (der Schlüssel) <br>
+Das ist mein Auto. (das Auto)<br>
+Das ist meine Brille. (die Brille) <br>
+Das ist mein Haus. (das Haus) <br>
+
+<b>Verbo <span style="color:#32a852">haben</span> actúa sobre el complemento directo <span style="color:#4287f5">(acusativo)</span>:</b> <br>
+Ich habe mein Handy. <br>
+Ich habe meine Hand. <br>
+Ich habe **meinen** Schlüssel. <br>
+Ich habe mein Auto. <br>
+Ich habe meine Brille. <br>
+Ich habe mein Haus. <br>
+<span style="color:#eb4034">Todos son pronombres posesivos son acusativos, pero únicamente se aprecia el cambio en el género masculino. </span>
+
 ## Ejercicio 1. Dativo o acusativo
 
 A Mein Vater kommt zu _____ (ich).
