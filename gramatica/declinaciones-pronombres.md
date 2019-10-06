@@ -16,6 +16,18 @@
 | **Acusativo** | <span style="color:#4287f5">den</span> | die | das | die |
 | **Dativo** | <span style="color:#32a852">dem</span> | <span style="color:#32a852">der</span> | <span style="color:#32a852">dem</span> | <span style="color:#32a852">den</span> |
 
+## Posesivos
+
+| Persona | Masculino | Neutro | Femenino | Plural |
+| ----- | ----- | ----- | ----- | ----- |
+| ich | mein | mein | meine | meine |
+| du | dein | dein | deine | deine |
+| er | sein | sein | seine | seine |
+| sie | ihr | ihr | ihre | ihre |
+| wir | unser | unser | unsere | unsere |
+| ihr | euer | euer | <span style="color:#32a852"><b>eure</b></span>  | <span style="color:#32a852"><b>eure</b></span>  |
+| sie | ihr | ihr | ihre | ihre |
+| Sie | Ihr | Ihr | Ihre | Ihre |
 
 ## Reglas de uso
 
