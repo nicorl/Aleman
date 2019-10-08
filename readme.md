@@ -1,4 +1,6 @@
-![Update](https://img.shields.io/date/1570568203?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social) - ![Update](https://img.shields.io/date/1570568203?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+
+
 
 # Apuntes de alemán
 
