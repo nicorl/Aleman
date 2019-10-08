@@ -54,10 +54,14 @@ La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](.
 
 La hora - [Gramática](./gramatica/lahora.md)
 
-El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/vebos-pasado.md)
+Verbos separables - [Vocabulario](./vocabulario/treenbare-verben.md)
+
+El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/verbos-pasado.md)
 
 Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md)
 
 La casa - [Vocabulario](./vocabulario/casa.md)
 
 La familia - [Vocabulario](./vocabulario/familia.md)
+
+Conectores - [Vocabulario](./vocabulario/conectores.md)
