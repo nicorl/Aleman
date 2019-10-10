@@ -6,17 +6,39 @@
 
 ## Vocabulario
 
-Euch - a vosotros <br>
-Anlass - ocasión <br>
-erzählen - contar <br>
+| Parrafo 1 | Parrafo 2 |
+| ----- | ----- |
+|Euch - a vosotros | damals - en aquel tiempo, entonces |
+|der Anlass - ocasión| die Wiese - prado |
+|erzählen - contar| außerhalb - fuera de   |
+|| veranstalten - organizar  |
+|| Seitdem - desde entonces |
+|| Mittlerweile  - entre tanto |
+|| der Rand - Borde, canto, periferia |
+|| wachsen - crecer (pp. gewachsen) |
+|| sondern - sino |
+|| mittendrin - en el medio |
+|| ähnlich  - parecido, semejante |
+|| wachen - velar |
+|| Löwen - Leones (Löwe singular) |
+|| die Seite - Lado, cara |
+|| klettern - subir |
+|| wunderbar - milagroso |
+|| der Ausblick - vista, panorama |
+
+<center>
+[ <span style="color:#32a852">Sustantivos</span> |
+<span style="color:#fcba03">Adverbios - adjetivos</span> |
+<span style="color:#4c7bfc">Verbos</span> ]
+</center>
 
 ## Transcripción
 
-Heute möchte ich Euch aus aktuellem Anlass etwas über das Oktoberfest erzählen. Denn das beginnt morgen hier in München. Ihr kennt es sicher alle, denn das Oktoberfest ist das größte Volksfest der Welt. Jedes Jahr besuchen rund sechs Millionen Menschen das Oktoberfest!
+Heute möchte ich Euch aus aktuellem <span style="color:#32a852">Anlass</span> etwas über das Oktoberfest erzählen. Denn das beginnt morgen hier in München. Ihr kennt es sicher alle, denn das Oktoberfest ist das größte Volksfest der Welt. Jedes Jahr besuchen rund sechs Millionen Menschen das Oktoberfest!
 
-**(por aquí)**
-Alles begann im Jahr 1810. Kronprinz Ludwig heiratete Prinzessin Therese damals im Oktober. Auf einer Wiese außerhalb der Stadt veranstalteten sie zur Feier des Tages ein Pferderennen. Seitdem heißt die Wiese Theresienwiese. Mittlerweile ist die Stadt so sehr gewachsen, dass die Wiese nicht mehr am Rand der Stadt liegt, sondern mittendrin. Mittlerweile haben wir hier auch so etwas ähnliches wie die Freiheitsstatue in New York: Die Bavaria wacht mit einem Löwen an ihrer Seite über die Wiese. Man kann in ihren Kopf klettern und hat von dort einen wunderbaren Ausblick über die Stadt.
+Alles begann im Jahr 1810. Kronprinz Ludwig heiratete Prinzessin Therese <span style="color:#fcba03">damals</span> im Oktober. Auf einer Wiese <span style="color:#fcba03">außerhalb</span> der Stadt <span style="color:#4c7bfc">veranstalteten</span> sie zur Feier des Tages ein Pferderennen. Seitdem heißt die Wiese Theresienwiese. Mittlerweile ist die Stadt so sehr <span style="color:#4c7bfc">gewachsen</span>, dass die Wiese nicht mehr am Rand der Stadt liegt, <span style="color:#fcba03">sondern mittendrin</span>. Mittlerweile haben wir hier auch so etwas <span style="color:#fcba03">ähnliches</span> wie die Freiheitsstatue in New York: Die Bavaria <span style="color:#4c7bfc">wacht</span> mit einem Löwen an ihrer Seite über die Wiese. Man kann in ihren Kopf <span style="color:#4c7bfc">klettern</span> und hat von dort einen <span style="color:#fcba03">wunderbaren</span> <span style="color:#32a852">Ausblick</span> über die Stadt.
 
+**(Por aquí)**
 Jedes Jahr findet das Oktoberfest statt, es sei denn es herrschte Krieg oder die Stadt wurde von einer Cholera-Epidemie befallen. Weil es in München aber im Oktober manchmal schon sehr kalt ist, beschloss man, das Fest vorzuverlegen. Jetzt findet es im September statt – nur das letzte Wochenende ist im Oktober. Das Oktoberfest dauert immer drei Wochenenden, manchmal wird es etwas verlängert. Es dauert also immer 16 bis 18 Tage lang.
 
 Die Gäste sind international. Die Münchner selbst gehen oft mit ihren Firmenkollegen auf das Oktoberfest, es kommen aber auch viele Australier und Japaner zum Feiern und Trinken hierher. Typisch ist, dass schon einige Wochen vor dem Beginn des Oktoberfests Italiener mit ihren Wohnwagen hier auftauchen. Sie parken die Wohnwägen am Rand der Theresienwiese und haben so ein perfektes Quartier – auch betrunken können sie so noch in ihr Bett wanken. Während des Wochenendes, an dem die meisten Italiener in München sind, werden übrigens im Radio auch die Verkehrsdurchsagen auf italienisch gemacht.
