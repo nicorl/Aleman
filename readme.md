@@ -60,12 +60,20 @@ La hora - [Gramática](./gramatica/lahora.md)
 
 Verbos separables - [Vocabulario](./vocabulario/treenbare-verben.md)
 
-El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/verbos-pasado.md)
+El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/verbos-pasado.md) - [Ejercicios](./ejercicios/pasado.md)
 
-Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md)
+Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md) - [Ejercicios](./ejercicios/pronombres.md)
 
 La casa - [Vocabulario](./vocabulario/casa.md)
 
 La familia - [Vocabulario](./vocabulario/familia.md)
 
 Conectores - [Vocabulario](./vocabulario/conectores.md)
+
+Kurzbuch - [T1](./Kurzbuch/T1-P12-Ej8.md)
+
+Arbeitsbuch - [T1](./Arbeitsbuch/Tema-1.md)
+
+SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md)
+
+Jojo sucht das Glück - [1](./audios/DW-1-Jojo.md) [2](./audios/DW-2-Jojo.md) [3](./audios/DW-3-Jojo.md)
