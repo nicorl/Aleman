@@ -70,10 +70,10 @@ La familia - [Vocabulario](./vocabulario/familia.md)
 
 Conectores - [Vocabulario](./vocabulario/conectores.md)
 
-Kurzbuch - [T1](./Kurzbuch/T1-P12-Ej8.md)
+Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md)
 
-Arbeitsbuch - [T1](./Arbeitsbuch/Tema-1.md)
+Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md)
 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md)
 
-Jojo sucht das Glück - [1](./audios/DW-1-Jojo.md) [2](./audios/DW-2-Jojo.md) [3](./audios/DW-3-Jojo.md)
+Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md)
