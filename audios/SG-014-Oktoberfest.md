@@ -6,25 +6,27 @@
 
 ## Vocabulario
 
-| Parrafo 1 | Parrafo 2 |
-| ----- | ----- |
-|Euch - a vosotros | damals - en aquel tiempo, entonces |
-|der Anlass - ocasión| die Wiese - prado |
-|erzählen - contar| außerhalb - fuera de   |
-|| veranstalten - organizar  |
-|| Seitdem - desde entonces |
-|| Mittlerweile  - entre tanto |
-|| der Rand - Borde, canto, periferia |
-|| wachsen - crecer (pp. gewachsen) |
-|| sondern - sino |
-|| mittendrin - en el medio |
-|| ähnlich  - parecido, semejante |
-|| wachen - velar |
-|| Löwen - Leones (Löwe singular) |
-|| die Seite - Lado, cara |
-|| klettern - subir |
-|| wunderbar - milagroso |
-|| der Ausblick - vista, panorama |
+| Párrafo 1 | Párrafo 2 | Párrafo 3
+| ----- | ----- | ----- |
+|Euch - a vosotros | damals - en aquel tiempo, entonces |  herrschte - prevalecido |
+|der Anlass - ocasión| die Wiese - prado | der Krieg - guerra |
+|erzählen - contar| außerhalb - fuera de   | vorzuverlegen - adelantar |
+|| veranstalten - organizar  | verlängert - ampliado |
+|| Seitdem - desde entonces | |
+|| Mittlerweile  - entre tanto ||
+|| der Rand - Borde, canto, periferia ||
+|| wachsen - crecer (pp. gewachsen) ||
+|| sondern - sino ||
+|| mittendrin - en el medio ||
+|| ähnlich  - parecido, semejante ||
+|| wachen - velar ||
+|| Löwen - Leones (Löwe singular) ||
+|| die Seite - Lado, cara ||
+|| klettern - subir ||
+|| wunderbar - milagroso ||
+|| der Ausblick - vista, panorama ||
+
+
 
 <center>
 [ <span style="color:#32a852">Sustantivos</span> |
@@ -38,9 +40,10 @@ Heute möchte ich Euch aus aktuellem <span style="color:#32a852">Anlass</span> e
 
 Alles begann im Jahr 1810. Kronprinz Ludwig heiratete Prinzessin Therese <span style="color:#fcba03">damals</span> im Oktober. Auf einer Wiese <span style="color:#fcba03">außerhalb</span> der Stadt <span style="color:#4c7bfc">veranstalteten</span> sie zur Feier des Tages ein Pferderennen. Seitdem heißt die Wiese Theresienwiese. Mittlerweile ist die Stadt so sehr <span style="color:#4c7bfc">gewachsen</span>, dass die Wiese nicht mehr am Rand der Stadt liegt, <span style="color:#fcba03">sondern mittendrin</span>. Mittlerweile haben wir hier auch so etwas <span style="color:#fcba03">ähnliches</span> wie die Freiheitsstatue in New York: Die Bavaria <span style="color:#4c7bfc">wacht</span> mit einem Löwen an ihrer Seite über die Wiese. Man kann in ihren Kopf <span style="color:#4c7bfc">klettern</span> und hat von dort einen <span style="color:#fcba03">wunderbaren</span> <span style="color:#32a852">Ausblick</span> über die Stadt.
 
-**(Por aquí)**
-Jedes Jahr findet das Oktoberfest statt, es sei denn es herrschte Krieg oder die Stadt wurde von einer Cholera-Epidemie befallen. Weil es in München aber im Oktober manchmal schon sehr kalt ist, beschloss man, das Fest vorzuverlegen. Jetzt findet es im September statt – nur das letzte Wochenende ist im Oktober. Das Oktoberfest dauert immer drei Wochenenden, manchmal wird es etwas verlängert. Es dauert also immer 16 bis 18 Tage lang.
+Jedes Jahr findet das Oktoberfest statt, es sei denn es <span style="color:#fcba03">herrschte</span> <span style="color:#32a852">Krieg</span> oder die Stadt wurde von einer Cholera-Epidemie befallen. Weil es in München aber im Oktober manchmal schon sehr kalt ist, beschloss man, das Fest <span style="color:#fcba03">vorzuverlegen</span>. Jetzt findet es im September statt – nur das letzte Wochenende ist im Oktober. Das Oktoberfest dauert immer drei Wochenenden, manchmal wird es etwas verlängert. Es dauert also immer 16 bis 18 Tage lang.
 
+
+**(Por aquí)**
 Die Gäste sind international. Die Münchner selbst gehen oft mit ihren Firmenkollegen auf das Oktoberfest, es kommen aber auch viele Australier und Japaner zum Feiern und Trinken hierher. Typisch ist, dass schon einige Wochen vor dem Beginn des Oktoberfests Italiener mit ihren Wohnwagen hier auftauchen. Sie parken die Wohnwägen am Rand der Theresienwiese und haben so ein perfektes Quartier – auch betrunken können sie so noch in ihr Bett wanken. Während des Wochenendes, an dem die meisten Italiener in München sind, werden übrigens im Radio auch die Verkehrsdurchsagen auf italienisch gemacht.
 
 Eröffnet wird das Oktoberfest immer am Samstagmittag vom Oberbürgermeister. Das ist in München derzeit Christian Ude. Er steht dann vor einem riesigen Fass Bier und muss es anzapfen. Also das erste Bier ausschenken. Er ruft dann „Ozapft is“, und die Wies’n ist eröffnet.
