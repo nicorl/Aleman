@@ -75,4 +75,4 @@ Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md)
 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md)
 
-Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md)
+Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) 
