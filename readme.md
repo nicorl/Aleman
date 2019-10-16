@@ -1,5 +1,4 @@
-![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)  ![Update](https://img.shields.io/date/1570901583?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
-
+![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)  ![Update](https://img.shields.io/date/1571247134?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 
 # Apuntes de alemán
@@ -62,7 +61,7 @@ Verbos separables - [Vocabulario](./vocabulario/treenbare-verben.md)
 
 El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/verbos-pasado.md) - [Ejercicios](./ejercicios/pasado.md)
 
-Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md) - [Ejercicios](./ejercicios/pronombres.md)
+Los pronombres - [Declinaciones](./gramatica/declinaciones-pronombres.md) - [Ejercicios](./ejercicios/pronombres.md) - [Declinaciones mediante Wo y Wohin](./gramatica/wo-und-wohin.md) - [Ejercicios de declinaciones mediante Wo y Wohin](./ejercicios/describir-habitacion.md)
 
 La casa - [Vocabulario](./vocabulario/casa.md)
 
