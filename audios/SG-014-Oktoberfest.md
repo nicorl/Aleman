@@ -6,26 +6,25 @@
 
 ## Vocabulario
 
-| Párrafo 1 | Párrafo 2 | Párrafo 3
-| ----- | ----- | ----- |
-|Euch - a vosotros | damals - en aquel tiempo, entonces |  herrschte - prevalecido |
-|der Anlass - ocasión| die Wiese - prado | der Krieg - guerra |
-|erzählen - contar| außerhalb - fuera de   | vorzuverlegen - adelantar |
-|| veranstalten - organizar  | verlängert - ampliado |
-|| Seitdem - desde entonces | |
-|| Mittlerweile  - entre tanto ||
-|| der Rand - Borde, canto, periferia ||
-|| wachsen - crecer (pp. gewachsen) ||
-|| sondern - sino ||
-|| mittendrin - en el medio ||
-|| ähnlich  - parecido, semejante ||
-|| wachen - velar ||
-|| Löwen - Leones (Löwe singular) ||
-|| die Seite - Lado, cara ||
-|| klettern - subir ||
-|| wunderbar - milagroso ||
-|| der Ausblick - vista, panorama ||
-
+| Párrafo 1 | Párrafo 2 | Párrafo 3 | Párrafo 4 |
+| ----- | ----- | ----- | ----- |
+|Euch - a vosotros | damals - en aquel tiempo, entonces |  herrschte - prevalecido | selbst - incluso |
+|der Anlass - ocasión| die Wiese - prado | der Krieg - guerra | hierher - aqui |
+|erzählen - contar| außerhalb - fuera de   | vorzuverlegen - adelantar | auftauchen - aparecer |
+|| veranstalten - organizar  | verlängert - ampliado | Rand - límite / frontera |
+|| Seitdem - desde entonces | | Verkehrsdurchsagen - noticias sobre el tráfico |
+|| Mittlerweile  - entre tanto |||
+|| der Rand - Borde, canto, periferia |||
+|| wachsen - crecer (pp. gewachsen) |||
+|| sondern - sino |||
+|| mittendrin - en el medio |||
+|| ähnlich  - parecido, semejante |||
+|| wachen - velar |||
+|| Löwen - Leones (Löwe singular) |||
+|| die Seite - Lado, cara |||
+|| klettern - subir |||
+|| wunderbar - milagroso |||
+|| der Ausblick - vista, panorama |||
 
 
 <center>
@@ -42,10 +41,9 @@ Alles begann im Jahr 1810. Kronprinz Ludwig heiratete Prinzessin Therese <span s
 
 Jedes Jahr findet das Oktoberfest statt, es sei denn es <span style="color:#fcba03">herrschte</span> <span style="color:#32a852">Krieg</span> oder die Stadt wurde von einer Cholera-Epidemie befallen. Weil es in München aber im Oktober manchmal schon sehr kalt ist, beschloss man, das Fest <span style="color:#fcba03">vorzuverlegen</span>. Jetzt findet es im September statt – nur das letzte Wochenende ist im Oktober. Das Oktoberfest dauert immer drei Wochenenden, manchmal wird es etwas verlängert. Es dauert also immer 16 bis 18 Tage lang.
 
+Die Gäste sind international. Die Münchner <span style="color:#fcba03">selbst</span> gehen oft mit ihren Firmenkollegen auf das Oktoberfest, es kommen aber auch viele Australier und Japaner zum Feiern und Trinken <span style="color:#fcba03">hierher</span>. Typisch ist, dass schon einige Wochen vor dem Beginn des Oktoberfests Italiener mit ihren Wohnwagen hier <span style="color:#4c7bfc">auftauchen</span>. Sie parken die Wohnwägen am <span style="color:#32a852">Rand</span> der Theresienwiese und haben so ein perfektes Quartier – auch betrunken können sie so noch in ihr Bett wanken. Während des Wochenendes, an dem die meisten Italiener in München sind, werden übrigens im Radio auch die <span style="color:#32a852">Verkehrsdurchsagen</span> auf italienisch gemacht.
 
 **(Por aquí)**
-Die Gäste sind international. Die Münchner selbst gehen oft mit ihren Firmenkollegen auf das Oktoberfest, es kommen aber auch viele Australier und Japaner zum Feiern und Trinken hierher. Typisch ist, dass schon einige Wochen vor dem Beginn des Oktoberfests Italiener mit ihren Wohnwagen hier auftauchen. Sie parken die Wohnwägen am Rand der Theresienwiese und haben so ein perfektes Quartier – auch betrunken können sie so noch in ihr Bett wanken. Während des Wochenendes, an dem die meisten Italiener in München sind, werden übrigens im Radio auch die Verkehrsdurchsagen auf italienisch gemacht.
-
 Eröffnet wird das Oktoberfest immer am Samstagmittag vom Oberbürgermeister. Das ist in München derzeit Christian Ude. Er steht dann vor einem riesigen Fass Bier und muss es anzapfen. Also das erste Bier ausschenken. Er ruft dann „Ozapft is“, und die Wies’n ist eröffnet.
 
 Ich fahre am liebsten mit dem Riesenrad. Es wurde 1880 zum ersten Mal aufgestellt und war damals zwölf Meter hoch. Heute ist es 48 Meter hoch und man hat einen wunderbaren Blick auf die Stadt.

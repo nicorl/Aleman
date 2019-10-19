@@ -1,4 +1,4 @@
-![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)  ![Update](https://img.shields.io/date/1571247134?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)  ![Update](https://img.shields.io/date/1571507447?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 
 # Apuntes de alemán
@@ -71,8 +71,8 @@ Conectores - [Vocabulario](./vocabulario/conectores.md)
 
 Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md)
 
-Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md)
+Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md)
 
-Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) 
+Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audio/DW-7-Jojo.md)
