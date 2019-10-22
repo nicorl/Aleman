@@ -1,44 +1,39 @@
-![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)  ![Update](https://img.shields.io/date/1571507447?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1571776778?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
+![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)
 
 # Apuntes de alemán
 
 Apuntes de alemán, del nivel A-2 del curso académico 2019-2020 en la Escuela Oficial de Idiomas de Lucena.
 
-## 24/09/19
+### Temas destacados
 
-### Presentaciones
+#### Pronombres
 
-Ich bin ...
+| Castellano | Yo | Tú | Él | Ella | Ello | Nosotros | Vosotros | Ellos |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Nominativo** | ich | du | er | sie | es | wir | ihr | sie |
+| **Acusativo** | <span style="color:#4287f5">mich</span> | <span style="color:#4287f5">dich</span> | <span style="color:#4287f5">ihn</span> | sie | es | <span style="color:#4287f5">uns</span> | <span style="color:#4287f5">euch</span> | sie |
+| **Dativo** | <span style="color:#32a852">mir</span> | <span style="color:#32a852">dir</span> | <span style="color:#32a852">ihm</span> | <span style="color:#32a852">ihr</span> | <span style="color:#32a852">ihm</span> | <span style="color:#4287f5">uns</span> | <span style="color:#4287f5">euch</span> | <span style="color:#32a852">ihnen</span> |
 
-Ich heiße ...
 
-Ich bin ... Jahre Alt
+#### Wo y Wohin
 
-Ich bin verheiratet / Ich bin ledig
+*Wo* atiende a un estado `estático` y *Wohin* a un estado `dinámico`.
 
-Ich komme aus Spanien
+| Wo | Wohin | Diferencia |
+| ----- | ----- |  ----- |
+| stehen | stellen | estar vertical, poner en vertical |
+| liegen | legen | estar tumbado, poner tumbado |
+| sitzen | setzen | estar sentado, sentar |
+| hängen | hängen | estar colgado, colgar |
 
-### Preguntas básicas
+Las preguntas con **Wohin**, siempre necesitan de un sujeto persona, además del complemento directo, objeto.
 
-Juego de preguntas y respuestas para practicar.
+* Wohin stellst du `den` Tisch? <br>  `den` Tisch es complemento directo.
+* Wo steht `der` Tisch? <br> `der` Tisch es sujeto.
 
-* Was machst du?
-
-* Was machst du gern?
-
-* Welche ist dein lieblingslied ?
-
-### La hora
-
-Para preguntar:
-* Wie spät ist es?
-* Wie viel Uhr ist es?
-
-Para responder:
-* Es ist...d
-
-### El pasado
+#### El pasado
 
 <span style="color:#4287f5"> Im letzten Jahr <b>machte</b> ich Urlaub in Deutschland. Mit dem Fahrrad <b>fuhr</b> ich auf dem Elbe-Radweg von Hamburg bis Dresden. Die Strecke <b>war</b> fantastisch und ich <b>hatte</b> tolles Wetter. </span>
 
@@ -51,11 +46,17 @@ Para responder:
 | ihr | wart | hattet |
 | sie | waren | hatten |
 
+#### Preposiciones
+
+**Pendiente**
+
 ## En detalle
 
 La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
 
 La hora - [Gramática](./gramatica/lahora.md)
+
+Verbos y sustantivos que comparten raíz - [Vocabulario](./vocabulario/verbos-sustantivos.md)
 
 Verbos separables - [Vocabulario](./vocabulario/treenbare-verben.md)
 
@@ -69,7 +70,9 @@ La familia - [Vocabulario](./vocabulario/familia.md)
 
 Conectores - [Vocabulario](./vocabulario/conectores.md)
 
-Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md)
+Preposiciones - [Vocabulario](./vocabulario/Preposiciones.md)
+
+Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md)
 
 Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
 
