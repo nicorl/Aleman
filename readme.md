@@ -1,4 +1,4 @@
-![Update](https://img.shields.io/date/1571852606?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1572214059?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 ![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)
 
@@ -70,7 +70,9 @@ La familia - [Vocabulario](./vocabulario/familia.md)
 
 Conectores - [Vocabulario](./vocabulario/conectores.md)
 
-Preposiciones - [Vocabulario](./vocabulario/Preposiciones.md)
+Preposiciones - [Vocabulario](./vocabulario/Preposiciones.md) - [Am Im Um](./gramatica/preposiciones-am-im-um.md)
+
+Describir una imagen - [Gramática](./gramatica/Bildbeschreibung.md)
 
 Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md)
 
