@@ -2,7 +2,7 @@
 
 ## Esquema general
 
-![Las horas](./HorasAleman.jpg)
+![Las horas](./imagenes/HorasAleman.jpg)
 
 | Hora | Alemán |
 | ----- | ----- |

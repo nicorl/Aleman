@@ -2,8 +2,8 @@
 
 ## Expresar gustos
 * <span style="color:#4287f5">Ich esse gern(e) Pizza </span>  Me gusta comer pizza
-*  <span style="color:#4287f5">Ich esse lieber Spaghetti  </span> Yo prefiero comer espaguetis
-*  <span style="color:#4287f5">Ich esse am liebsten Kuchen  </span> Lo que más me gusta comer es tarta
+* <span style="color:#4287f5">Ich esse lieber Spaghetti  </span> Yo prefiero comer espaguetis
+* <span style="color:#4287f5">Ich esse am liebsten Kuchen  </span> Lo que más me gusta comer es tarta
 
 ## Contestando preguntas
 
