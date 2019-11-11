@@ -72,6 +72,8 @@ Conectores - [Vocabulario](./vocabulario/conectores.md)
 
 Preposiciones - [Vocabulario](./vocabulario/Preposiciones.md) - [Am Im Um](./gramatica/preposiciones-am-im-um.md)
 
+Naturaleza - [Vocabulario](./vocabulario/naturaleza.md)
+
 Describir una imagen - [Gramática](./gramatica/Bildbeschreibung.md)
 
 Idea de negocio - [Redacción](./ejercicios/Geschaftidee.md)
