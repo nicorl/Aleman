@@ -1,4 +1,4 @@
-![Update](https://img.shields.io/date/1572788755?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1574878515?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 ![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)
 
@@ -80,7 +80,7 @@ Idea de negocio - [Redacción](./ejercicios/Geschaftidee.md)
 
 Vie und viele - [Gramática](./gramatica/Viel-und-viele.md)
 
-Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md)
+Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md) - [T6 - Prinzessinnengärten](./Kurzbuch/T6.md)
 
 Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
 
