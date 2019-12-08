@@ -4,7 +4,7 @@
 
 # Apuntes de alemán
 
-Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020 en la Escuela Oficial de Idiomas de Lucena.
+Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020.
 
 ### Temas destacados
 
