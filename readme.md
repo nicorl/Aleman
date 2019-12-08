@@ -4,7 +4,7 @@
 
 # Apuntes de alemán
 
-Apuntes de alemán, del nivel A-2 del curso académico 2019-2020 en la Escuela Oficial de Idiomas de Lucena.
+Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020 en la Escuela Oficial de Idiomas de Lucena.
 
 ### Temas destacados
 
@@ -87,3 +87,5 @@ Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.m
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md)
 
 Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audio/DW-7-Jojo.md)
+
+Deutschlandlabor - [#1](./audios/Deutschlandlabor01.md) [#2](./audios/Deutschlandlabor02.md)
