@@ -1,4 +1,4 @@
-![Update](https://img.shields.io/date/1575836242?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1575915894?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 ![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)
 
@@ -45,6 +45,23 @@ Las preguntas con **Wohin**, siempre necesitan de un sujeto persona, además del
 | wir | waren | hatten |
 | ihr | wart | hattet |
 | sie | waren | hatten |
+
+#### Sugerencias, proposiciones y rechazos
+
+| sugerir algo <br> para hacer una cita <br> <span style="color:#4287f5">etwas vorschlagen <br> sich verabreden</span> | rechazar una propuesta <br> <span style="color:#4287f5">einen vorschlag ablehnen</span>  | de acuerdo <br> <span style="color:#4287f5">zustimmen / sich einigen</span> |
+| ----- | ----- | ----- |
+| <span style="color:#4287f5">Möchtest du vielleicht mitkommen?</span> <br> ¿Te gustaría venir? | <span style="color:#4287f5">Lass uns doch …</span> <br> Déjanos … | <span style="color:#4287f5">Ja, gut dann treffen wir uns um … am … </span><br> Sí, bueno, entonces nos encontramos en el sitio … el día …   |
+| <span style="color:#4287f5">Was hältst du davon?</span> <br> ¿Qué opinas sobre eso?  | <span style="color:#4287f5">Sehr nett, aber da kann ich leider nicht.</span> <br> Muy bien, pero desafortunadamente no puedo.  | <span style="color:#4287f5">Okay, das machen wir.</span> <br> Bien, haremos eso.  |
+| <span style="color:#4287f5">Wollen wir noch ein Treffpunkt ausmachen?</span> <br>  ¿Todavía queremos hacer una reunión? | <span style="color:#4287f5">Also, ich weiß nicht. Das finde ich nicht so interessant.</span> <br> Pues no lo sé. No me parece tan interesante.  | <span style="color:#4287f5">Ja okay, das passt auch.</span> <br> Sí, está bien, eso también encaja. |
+| <span style="color:#4287f5">Hast du am … Zeit?</span> <br> ¿Tienes tiempo el día …? | <span style="color:#4287f5">das ist keine so gute idee. ich würde lieber …</span> <br> Esa no es una buena idea. Prefiero … | <span style="color:#4287f5">Aber gern.</span> <br> Pero como |
+| <span style="color:#4287f5">Wie wäre es mit …?</span> <br> ¿Qué tal …?  | | |
+| <span style="color:#4287f5">Darf ich etwas vorschlagen?</span> <br> ¿Puedo sugerir algo?  | | |
+| <span style="color:#4287f5">Geht es bei dir am/um …?</span> <br> ¿Qué tal te va a las …? | | |
+| <span style="color:#4287f5">Willst du zu/zum/zur … mitkommen? du hast doch gesagt, das würde dich interessieren.</span> <br> ¿quieres venir a / a …? Dijiste que eso te interesaría.  | | |
+
+
+
+
 
 #### Preposiciones
 
