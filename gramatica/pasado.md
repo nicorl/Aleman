@@ -66,3 +66,32 @@ Hay algunos verbos pueden ser transitivos o intransitivos dependiendo de la orac
 |werden|	geworden	|llegar a ser|
 |wissen|	gewusst	|saber|
 |verlieren|	verloren	|perder|
+
+## Listado de verbos más comunes
+
+| Infinitiv | Partizip II | Castellano |
+| ---- | ---- | ---- |
+| werden | geworde | ponerse  |
+| haben | gehabt | tener |
+| sein | gewesen | ser  |
+| können | gekonnt | poder |
+| müssen | gemusst | tener que |
+| sollen | gesollt | deber |
+| sagen | gesagt | decir |
+| geben | gegeben | dar |
+| kommen | gekommen | venir |
+| wollen | gewußt | querer |
+| machen | gemacht | hacer |
+| gehen | gegangen | ir |
+| heißen | geheißen | llamarse |
+| wissen | gewußt | saber |
+| sehen | gesehen | ver |
+| finden | gefunden | encontrar |
+| bleiben | gebleiben | quedarse |
+| mögen | gemocht | gustar |
+| dürfen | gedurft |estar permitido |
+| fahren | gefahren | conducir |
+| bestehen | bestanden | aprobar |
+| bringen | gebracht | traer |
+| denken | gedacht | pensar |
+| kennen | gekannt | conocer |
