@@ -16,6 +16,7 @@ Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020.
 | **Acusativo** | <span style="color:#4287f5">mich</span> | <span style="color:#4287f5">dich</span> | <span style="color:#4287f5">ihn</span> | sie | es | <span style="color:#4287f5">uns</span> | <span style="color:#4287f5">euch</span> | sie |
 | **Dativo** | <span style="color:#32a852">mir</span> | <span style="color:#32a852">dir</span> | <span style="color:#32a852">ihm</span> | <span style="color:#32a852">ihr</span> | <span style="color:#32a852">ihm</span> | <span style="color:#4287f5">uns</span> | <span style="color:#4287f5">euch</span> | <span style="color:#32a852">ihnen</span> |
 
+* [Determinantes y poronombres posesivos, con algunas frases](./gramatica/det-y-pron--posesivos.md)
 
 #### Wo y Wohin
 
