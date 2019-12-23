@@ -42,39 +42,51 @@
 4. <span style="color:#32a852">Mi hermana no es artista</span>. <br>
 <span style="color:#4287f5">Meine</span> Schwester ist keine Künstlerin.
 
-5. <span style="color:#32a852">Mis hermanos están con mis primos</span>. <br>
+5. <span style="color:#32a852">Mis hermanos quedan con mis primos</span>. <br>
+<span style="color:#4287f5">Meine</span> Geschwister treffen <span style="color:#4287f5">meine</span> Cousins
 
 6. <span style="color:#32a852">Mi hermana está con mis primos</span>. <br>
+<span style="color:#4287f5">Meine</span> Schwester ist bei <span style="color:#4287f5">meinen</span> Cousins
 
 7. <span style="color:#32a852">Mi hermano ha comido con mis padres</span>. <br>
+<span style="color:#4287f5">Mein</span> Bruder habe mit <span style="color:#4287f5">meinen</span> Eltern gegessen.
 
-<span style="color:#32a852">Mis padres han comido con mi hermano</span>. <br>
+8. <span style="color:#32a852">Mis padres han comido con mi hermano</span>. <br>
+<span style="color:#4287f5">Meine</span> Eltern haben mit <span style="color:#4287f5">meinem</span> Bruder gegessen.
 
-<span style="color:#32a852">Mi suegro es mi mejor amigo</span>. <br>
+9. <span style="color:#32a852">Mi suegro es mi amigo</span>. <br>
+<span style="color:#4287f5">Mein</span> Schwiegervater ist <span style="color:#4287f5">mein</span> Freund
 
-<span style="color:#32a852">Mi madre y mi hijo son mis personas favoritas</span>. <br>
+*sein* va en **nominativ**
 
-<span style="color:#32a852">El coche de mi madre está roto</span>. <br>
+10. <span style="color:#32a852">Mi madre y mi hijo son mis personas favoritas</span>. <br>
+<span style="color:#4287f5">Meine</span> Mutter und <span style="color:#4287f5">mein</span> Sohn sind <span style="color:#4287f5">meine</span> Lieblingsleute.
 
-<span style="color:#32a852">La moto de mi madre es nueva</span>. <br>
+11. <span style="color:#32a852">El coche de mi madre está roto</span>. <br>
+Das Auto <span style="color:#4287f5">meiner</span> Mutter ist kaputt
 
-<span style="color:#32a852">La casa de mi madre es cara</span>. <br>
+12. <span style="color:#32a852">La moto de mi padre es nueva</span>. <br>
+Das Motorrad <span style="color:#4287f5">meines</span> Vater<span style="color:#4287f5">s</span> ist neu.
 
-<span style="color:#32a852">Yo voy a tu ciudad con mi coche</span>. <br>
+13. <span style="color:#32a852">La casa de mi madre es cara</span>. <br>
+Das Haus <span style="color:#4287f5">meiner</span> Mutter ist teuer.
 
-<span style="color:#32a852">Ayer yo fui al cine con mis primos</span>. <br>
+14. <span style="color:#32a852">Yo voy a tu ciudad con mi coche</span>. <br>
+Ich fahre <span style="color:#f55d42">in</span> <span style="color:#4287f5">deine</span> Stadt mit <span style="color:#4287f5">meinem</span> Auto.
 
-<span style="color:#32a852">Ayer nosotros visitamos la catedral con mi familia</span>. <br>
+15. <span style="color:#32a852">Ayer yo fui al cine con mis primos</span>. <br>
 
-<span style="color:#32a852">El juega con su gato</span>. <br>
+16. <span style="color:#32a852">Ayer nosotros visitamos la catedral con mi familia</span>. <br>
 
-<span style="color:#32a852">Ella juega con su gato</span>. <br>
+17. <span style="color:#32a852">El juega con su gato</span>. <br>
 
-<span style="color:#32a852">Ellos juegan con su gato</span>. <br>
+18. <span style="color:#32a852">Ella juega con su gato</span>. <br>
 
-<span style="color:#32a852">Ellos juegan con sus gatos</span>. <br>
+19. <span style="color:#32a852">Ellos juegan con su gato</span>. <br>
 
-<span style="color:#32a852">Ayer ellos jugaron con vuestro gato</span>. <br>
+20. <span style="color:#32a852">Ellos juegan con sus gatos</span>. <br>
+
+21. <span style="color:#32a852">Ayer ellos jugaron con vuestro gato</span>. <br>
 
 <span style="color:#32a852">Mi hermana cambia su ropa con su mejor amiga</span>. <br>
 
