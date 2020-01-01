@@ -1,6 +1,7 @@
 # Das Oktoberfest
 
 [Audio](./archivos/sg14.mp3)
+[Link Original](https://slowgerman.com/2007/09/21/slow-german-014-das-oktoberfest/)
 
 <hr>
 
