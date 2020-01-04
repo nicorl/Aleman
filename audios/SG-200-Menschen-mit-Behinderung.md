@@ -1,6 +1,6 @@
 # Menschen mit Behinderung
 
-[Audio](./archivos/sg200.mp3)
+[Audio](./archivos/sg200.mp3) <br>
 [Link Original](https://slowgerman.com/2019/12/31/sg-200-menschen-mit-behinderung/)
 
 <hr>
