@@ -5,7 +5,7 @@
 
 ## Vocabulario
 
-| <div style="width:10px">#</div> | Alemán | Castellano | <div style="width:10px">#</div>  | Alemán | Castellano |
+| # | Alemán | Castellano | # | Alemán | Castellano |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |[1]| freiwillig | voluntariamente |[3]| verhandeln | negociar|
 |[1]| kämpfen | luchar |[3]| Tarifverträge | convenios colectivos|
