@@ -1,4 +1,4 @@
-![Update](https://img.shields.io/date/1577958930?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1578161143?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 ![Twitter](https://img.shields.io/twitter/follow/nicorl?color=green&label=nicorl&style=social)
 
@@ -102,7 +102,7 @@ Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md) - [T6
 
 Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
 
-SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob.Fugger.md)
+SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob-Fugger.md) - [Banken und Finanzen](.audios/SG-198-Banken-und-Finanzen-in-Deutschland.md) - [Gewerkschaft und Betriebsrat](./audios/SG-197-Gewerkschaft-und-Betriebsrat.md)
 
 Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audio/DW-7-Jojo.md)
 
