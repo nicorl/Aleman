@@ -1,7 +1,5 @@
 ![Update](https://img.shields.io/date/1578418508?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
-# Apuntes de alemán
-
 Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020.
 
 ### Temas destacados

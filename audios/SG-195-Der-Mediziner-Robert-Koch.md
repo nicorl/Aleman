@@ -1,7 +1,7 @@
 # Der Mediziner Robert Koch
 
 [Audio](./audios/sg195.mp3) <br>
-[Link original)(https://slowgerman.com/2019/11/19/sg-195-der-mediziner-robert-koch/)
+[Link original](https://slowgerman.com/2019/11/19/sg-195-der-mediziner-robert-koch/)
 
 ## Vocabulario
 
