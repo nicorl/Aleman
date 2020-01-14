@@ -1,4 +1,4 @@
-![Update](https://img.shields.io/date/1578418508?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/date/1579040867?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
 
 Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020.
 
@@ -69,6 +69,8 @@ Las preguntas con **Wohin**, siempre necesitan de un sujeto persona, además del
 La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
 
 La hora - [Gramática](./gramatica/lahora.md)
+
+Weil und Da - [Gramática](./gramatica/weildundda.md)
 
 Verbos y sustantivos que comparten raíz - [Vocabulario](./vocabulario/verbos-sustantivos.md)
 
