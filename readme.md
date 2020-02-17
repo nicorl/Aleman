@@ -70,11 +70,11 @@ La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](.
 
 La hora - [Gramática](./gramatica/lahora.md)
 
-Weil und Da - [Gramática](./gramatica/weildundda.md)
+Weil und Da - [Gramática](./gramatica/weilundda.md)
 
 Verbos y sustantivos que comparten raíz - [Vocabulario](./vocabulario/verbos-sustantivos.md)
 
-Verbos separables - [Vocabulario](./vocabulario/treenbare-verben.md)
+Verbos separables - [Vocabulario](./vocabulario/trennbare-verben.md)
 
 El pasado - [Gramática](./gramatica/pasado.md) - [Verbos](./vocabulario/verbos-pasado.md) - [Ejercicios](./ejercicios/pasado.md)
 
@@ -102,6 +102,6 @@ Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.m
 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob-Fugger.md) - [Banken und Finanzen](./audios/SG-198-Banken-und-Finanzen-in-Deutschland.md) - [Gewerkschaft und Betriebsrat](./audios/SG-197-Gewerkschaft-und-Betriebsrat.md) - [Juden in Deutschland](./audios/SG-196-Juden-in-Deutschland.md) - [Der Mediziner Robert Koch](./audios/SG-195-Der-Mediziner-Robert-Koch.md) - [Online-Shopping](./audios/SG-192-Online-Shopping.md)
 
-Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audio/DW-7-Jojo.md)
+Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audios/DW-7-Jojo.md)
 
 Deutschlandlabor - [#1](./audios/Deutschlandlabor01.md) [#2](./audios/Deutschlandlabor02.md)

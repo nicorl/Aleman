@@ -11,12 +11,12 @@
 |getrennt	|separado|
 
 ## Miembros
-|Miembro|	Significado|	Plural|
+| Miembro |	Significado | Plural |
 | ---- | ---- | ---- |
-|die Eltern|	los padres| -- |
+|die Eltern|	los padres| --- |
 |die Mutter|	la madre|	die Mütter|
 |der Vater|	el padre|	die Väter|
-|die Geschwister|	los hermanos| -- |
+|die Geschwister|	los hermanos| --- |
 |die Schwester|	la hermana|	die Schwestern|
 |der Bruder|	el hermano|	die Brüder|
 |die Ehefrau|	la esposa (mujer)|	die Ehefrauen|

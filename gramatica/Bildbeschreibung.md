@@ -2,7 +2,7 @@
 
 ![Describir imagen](./imagenes/bildbeschreibung.jpg)
 
-![Describir imagen](./imagenes/bildbeschreibung2.png)
+![Describir imagen](./imagenes/bildbeschreibung2.PNG)
 
 W-Wörter: wer, was, wann, wo, wie, warum, woher, wie viel, wohin
 
