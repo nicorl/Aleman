@@ -11,6 +11,7 @@
 |getrennt	|separado|
 
 ## Miembros
+
 | Miembro |	Significado | Plural |
 | ---- | ---- | ---- |
 |die Eltern |	los padres| --- |
