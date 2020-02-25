@@ -1,4 +1,6 @@
-![Update](https://img.shields.io/date/1579356875?color=green&label=Letzte%20Aktualisierung&logo=update&logoColor=red&style=for-the-badge)
+![Update](https://img.shields.io/github/commit-activity/y/nicorl/Aleman?label=Aktivit%C3%A4t%20festschreiben&style=for-the-badge)
+
+![Update](https://img.shields.io/github/last-commit/nicorl/Aleman?label=letztes%20Commit&style=for-the-badge)
 
 Apuntes de alemán, para el nivel A-2 del curso académico 2019-2020.
 
