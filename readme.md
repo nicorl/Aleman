@@ -60,12 +60,6 @@ Las preguntas con **Wohin**, siempre necesitan de un sujeto persona, además del
 
 
 
-
-
-#### Preposiciones
-
-**Pendiente**
-
 ## En detalle
 
 La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
@@ -98,9 +92,6 @@ Idea de negocio - [Redacción](./ejercicios/Geschaftidee.md)
 
 Vie und viele - [Gramática](./gramatica/Viel-und-viele.md)
 
-Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md) - [T6 - Prinzessinnengärten](./Kurzbuch/T6.md)
-
-Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
 
 ![Update](https://img.shields.io/date/1582671038?label=Letzte%20Aktualisierung) SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob-Fugger.md) - [Banken und Finanzen](./audios/SG-198-Banken-und-Finanzen-in-Deutschland.md) - [Gewerkschaft und Betriebsrat](./audios/SG-197-Gewerkschaft-und-Betriebsrat.md) - [Juden in Deutschland](./audios/SG-196-Juden-in-Deutschland.md) - [Der Mediziner Robert Koch](./audios/SG-195-Der-Mediziner-Robert-Koch.md) - [Online-Shopping](./audios/SG-192-Online-Shopping.md) - [Österreich](./audios/SG-204-Osterreich.md)
 
@@ -109,4 +100,8 @@ Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) 
 
 Deutschlandlabor - [#1](./audios/Deutschlandlabor01.md) [#2](./audios/Deutschlandlabor02.md)
 
-![Update](https://img.shields.io/date/1582754176?label=Letzte%20Aktualisierung) [Glossar XXL] [T-1 Frases](./Glossar/Frases-T1.md) [T-1 Vocabulario](./Glossar/Vocabulario-T1.md)
+![Update](https://img.shields.io/date/1582754176?label=Letzte%20Aktualisierung) [Glossar XXL A2.1] [T-1 Frases](./Glossar/Frases-T1.md) - [T-1 Vocabulario](./Glossar/Vocabulario-T1.md)
+
+Kurzbuch (A 2.1) - [T1](./Kurzbuch/T1-P12-Ej8.md) - [T3](./Kurzbuch/T3.md) - [T6 - Prinzessinnengärten](./Kurzbuch/T6.md)
+
+Arbeitsbuch (A 2.1)  - [T1](./Arbeitsbuch/Tema-1.md) [T2](./Arbeitsbuch/Tema-2.md)
