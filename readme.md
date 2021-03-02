@@ -19,6 +19,18 @@ Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) 
 
 #### Adjektive als Nomen
 
+|  | Nominativ | Akkusativ | Dativ | 
+| ----- | ----- | ----- | ----- |
+| mask | der Hübsche | den Hübsch<span style="color:#4287f5">en</span> | dem Hübsch<span style="color:#4287f5">en</span> |
+| fem | die Hübsche | die Hübsch<span style="color:#32a852">e</span> | der Hübsch<span style="color:#4287f5">en</span> |
+| plural | die Hübschen | die Hübsch<span style="color:#4287f5">en</span> | den Hübsch<span style="color:#4287f5">en</span> | 
+
+|  | Nominativ | Akkusativ | Dativ | 
+| ----- | ----- | ----- | ----- |
+| mask | ein Hübsch<span style="color:#32a852">er</span> | ein<span style="color:#32a852">en</span>  Hübsch<span style="color:#32a852">en</span> | ein<span style="color:#32a852">em</span> Hübsch<span style="color:#32a852">en</span> |
+| fem | eine Hübsche |eine Hübsche | eine<span style="color:#32a852">r</span> Hübschen |
+| plural | - Hübschen | - Hübschen | - Hübschen | 
+
 ### Temas destacados A-2
 
 #### Pronombres
