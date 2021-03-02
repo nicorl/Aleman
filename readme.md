@@ -6,8 +6,7 @@ Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020
 
 [Subtitulos dobles](https://chrome.google.com/webstore/detail/youtube-dual-subtitles) es un plugin para chrome que permite llevar los subs al mismo tiempo tanto en español como en alemán.
 
-### Los canales de youtube que mejor me funcionan
-[HYPERBOLE](https://www.youtube.com/c/hyperboleTV)
+* Los canales de youtube que mejor me funcionan [HYPERBOLE](https://www.youtube.com/c/hyperboleTV) - [STRG_F](https://www.youtube.com/channel/UCfa7jJFYnn3P5LdJXsFkrjw) -- [DW DEUTSCH](https://www.youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg) - [VICE](https://www.youtube.com/channel/UC-igmPWEsrFykyTWL36r3iQ) - [EASY GERMAN](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
 
 ### Otros recursos 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob-Fugger.md) - [Banken und Finanzen](./audios/SG-198-Banken-und-Finanzen-in-Deutschland.md) - [Gewerkschaft und Betriebsrat](./audios/SG-197-Gewerkschaft-und-Betriebsrat.md) - [Juden in Deutschland](./audios/SG-196-Juden-in-Deutschland.md) - [Der Mediziner Robert Koch](./audios/SG-195-Der-Mediziner-Robert-Koch.md) - [Online-Shopping](./audios/SG-192-Online-Shopping.md) - [Österreich](./audios/SG-204-Osterreich.md)
@@ -30,6 +29,13 @@ Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) 
 | mask | ein Hübsch<span style="color:#32a852">er</span> | ein<span style="color:#32a852">en</span>  Hübsch<span style="color:#32a852">en</span> | ein<span style="color:#32a852">em</span> Hübsch<span style="color:#32a852">en</span> |
 | fem | eine Hübsche |eine Hübsche | eine<span style="color:#32a852">r</span> Hübschen |
 | plural | - Hübschen | - Hübschen | - Hübschen | 
+
+#### n-Deklination
+
+|  | Nominativ | Akkusativ | Dativ | 
+| ----- | ----- | ----- | ----- |
+| mask | der/ein Kollege | den/einen Kollege<span style="color:#4287f5">n</span> | dem/einem Kollege<span style="color:#4287f5">n</span> |
+| plural | die/- Kollege<span style="color:#4287f5">n</span>  | die/- Kollege<span style="color:#4287f5">n</span> | den/- Kollege<span style="color:#4287f5">n</span> | 
 
 ### Temas destacados A-2
 
@@ -88,6 +94,10 @@ Las preguntas con **Wohin**, siempre necesitan de un sujeto persona, además del
 
 
 ## En detalle
+
+[B-1] - Adjektive als Nomen - [Gramática](./gramatica/B1-Adjektive-als-Nomen.md)
+
+[B-1] - n-Deklination - [Gramática](./gramatica/n-Deklination.md)
 
 [A-2] - La alimentación - [Vocabulario](./vocabulario/alimentacion.md) - [Gramática](./gramatica/alimentacion.md)
 
