@@ -5,11 +5,11 @@
 3. Rolf sitzt auf dem (wackelig) <span style="color:#4287f5">wackeligen</span> Stuhl.
 4. Sie ist das Kind (reich) <span style="color:#4287f5">reicher</span> Eltern.
 5. Aus einer (offen) <span style="color:#4287f5">offenen</span> Tür schaute ein Mann heraus.
-6. Mein Freund repariert (defekt) ______ Waschmaschinen.
-7. Wir haben einen (spannend) ______ Film gesehen.
-8. Hast du die Telefonnummer eines (zuverlässig) ______ Babysitters?
-9. Mein Onkel hat ein (rot) ______ Auto.
-10. Wer ist der Besitzer des (zottelig) ______ Hundes?
+6. Mein Freund repariert (defekt) <span style="color:#4287f5">defekt</span> Waschmaschinen.
+7. Wir haben einen (spannend) <span style="color:#4287f5">spannenden</span> Waschmaschinen Film gesehen.
+8. Hast du die Telefonnummer eines (zuverlässig) <span style="color:#4287f5">zuverlässigen</span> Babysitters?
+9. Mein Onkel hat ein (rot) <span style="color:#4287f5">rotes</span> Auto.
+10. Wer ist der Besitzer des (zottelig) <span style="color:#4287f5">zotteligen</span> Auto Hundes?
 
 
 # Ejercicio de n-declinación
