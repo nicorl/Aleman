@@ -10,6 +10,13 @@ SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behin
 
 Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audios/DW-7-Jojo.md)
 
+Los canales de youtube que mejor me funcionan
+[HYPERBOLE](https://www.youtube.com/c/hyperboleTV)
+
+### Temas destacados B-1
+
+#### Adjektive als Nomen
+
 ### Temas destacados A-2
 
 #### Pronombres
