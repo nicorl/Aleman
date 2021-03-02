@@ -1,17 +1,19 @@
-![Update](https://img.shields.io/github/commit-activity/y/nicorl/Aleman?label=Aktivit%C3%A4t%20festschreiben&style=for-the-badge)
-
 ![Update](https://img.shields.io/github/last-commit/nicorl/Aleman?label=letztes%20Commit&style=for-the-badge)
 
 Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 y ahora pretendo incluir información del B-1 durante el curso académico 2020-2021.
 
 ## Comprensión lectora y auditiva
 
+[Subtitulos dobles](https://chrome.google.com/webstore/detail/youtube-dual-subtitles) es un plugin para chrome que permite llevar los subs al mismo tiempo tanto en español como en alemán.
+
+### Los canales de youtube que mejor me funcionan
+[HYPERBOLE](https://www.youtube.com/c/hyperboleTV)
+
+### Otros recursos 
 SlowGerman - [Oktoberfest](./audios/SG-014-Oktoberfest.md) - [Menschen-mit-Behinderung](./audios/SG-200-Menschen-mit-Behinderung.md) - [Jakob Fugger](./audios/SG-199-Jakob-Fugger.md) - [Banken und Finanzen](./audios/SG-198-Banken-und-Finanzen-in-Deutschland.md) - [Gewerkschaft und Betriebsrat](./audios/SG-197-Gewerkschaft-und-Betriebsrat.md) - [Juden in Deutschland](./audios/SG-196-Juden-in-Deutschland.md) - [Der Mediziner Robert Koch](./audios/SG-195-Der-Mediziner-Robert-Koch.md) - [Online-Shopping](./audios/SG-192-Online-Shopping.md) - [Österreich](./audios/SG-204-Osterreich.md)
 
 Jojo sucht das Glück - [#1](./audios/DW-1-Jojo.md) [#2](./audios/DW-2-Jojo.md) [#3](./audios/DW-3-Jojo.md) [#4](./audios/DW-4-Jojo.md) [#5](./audios/DW-5-Jojo.md) [#6](./audios/DW-6-Jojo.md) [#7](./audios/DW-7-Jojo.md)
 
-Los canales de youtube que mejor me funcionan
-[HYPERBOLE](https://www.youtube.com/c/hyperboleTV)
 
 ### Temas destacados B-1
 
