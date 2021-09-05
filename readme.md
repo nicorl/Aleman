@@ -2,6 +2,10 @@
 
 Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 y ahora pretendo incluir información del B-1 durante el curso académico 2020-2021.
 
+## Producción oral
+
+[Aquí](./oral/readme.md) las estratregias a seguir para hacer producciones y coproducciones orales
+
 ## Comprensión lectora y auditiva
 
 [Subtitulos dobles](https://chrome.google.com/webstore/detail/youtube-dual-subtitles) es un plugin para chrome que permite llevar los subs al mismo tiempo tanto en español como en alemán.
