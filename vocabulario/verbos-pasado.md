@@ -23,9 +23,9 @@
 
 |Verbo |	3ª Persona | 	Präteritum |	Verbo auxiliar + Partizip II | Significado |
 | ----- | ----- | ----- | ----- | ----- |
-|sein|	ist|	war|	ist| gewesen|	ser, estar|
-|haben|	hat|	hatte|	hat| gehabt|	tener, haber|
-|werden|	wird|	wurde|	ist| geworden| worden|	llegar a ser|
+|sein|	ist|	war|	ist gewesen|	ser, estar|
+|haben|	hat|	hatte|	hat gehabt|	tener, haber|
+|werden|	wird|	wurde|	ist geworden| worden|	llegar a ser|
 
 ### Verbos modales
 
