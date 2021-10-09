@@ -16,6 +16,25 @@
 | rufen <br> llamar | er ruft | rief | hat gerufen |
 | kennen <br> conocer | er kennt | kannt<span style="color:#4287f5">e</span> | hat gekannt |
 | schlagen <br> golpear | er schl<span style="color:#4287f5">ä</span>gt | schl<span style="color:#4287f5">u</span>g | hat geschlagen |
+| erfinden <br> inventar | er erfindet | erfand | hat erf<span style="color:#4287f5">u</span>nden | 
+| gehen <br> ir | er geht | ging | ist gegangen |
+| gewinnen <br> ganar | er gewinnt | gewann | hat gewonnen |
+| ausziehen <br> desvestirse | er sieht aus | zog aus | ist ausgezogen | 
+| helfen <br> ayudar | er hilft | half | hat geholfen | 
+| finden <br> encontrar | er findet | fand | hat gefunden |
+| nehmen <br> tomar | er nimmt | nahm | hat genommen |
+| kommen <br> venir | er kommt | kam | ist gekommen |
+| sehen <br> ver | er sieht | sah | hat gesehen |
+| springen <br> saltar | er springt | sprang | ist gesprungen | 
+| vergleichen <br> comparar | er vergleicht | verglicht | hat verglichen |
+| wissen <br> saber | er weiss | wusste | hat gewusst |
+| beginnen <br> empezar | er beginnt | begann | hat begonnen |
+| behalten <br> mantener | er behält | behielt | hat behalten |
+| beissen <br> morder | er beisst | biss | hat gebissen |
+| beiten <br> solicitar | er bittet | bat | hat gebeten |
+| bleiben <br> quedarse | er bleibt | blieb | ist geblieben | 
+| brechen <br> romper | er bricht | brach | hat gebrochen |
+
 
 ## Verbos irrergulares
 
