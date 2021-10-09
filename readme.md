@@ -18,6 +18,8 @@ Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020
 | rufen <br> llamar | er ruft | rief | hat gerufen |
 | kennen <br> conocer | er kennt | kannt<span style="color:#4287f5">e</span> | hat gekannt |
 | schlagen <br> golpear | er schl<span style="color:#4287f5">ä</span>gt | schl<span style="color:#4287f5">u</span>g | hat geschlagen |
+
+
 [El resto, aquí](./gramatica/verbos-pasado.md)
 
 ## Producción oral
