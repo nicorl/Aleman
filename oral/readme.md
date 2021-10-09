@@ -2,7 +2,10 @@
 
 La producción oral o monólogo en el B1 implica alinear una conversación durante varios minutos con los recursos del nivel. 
 
-## Ejemplo a seguir
+## Tarea para B2-1 . Mein Traum als Junge.
+
+
+## Ejemplo a seguir para nivel B-1.
 
 [1] Guten Tag, Ich heiße ___________
 

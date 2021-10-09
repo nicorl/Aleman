@@ -1,6 +1,6 @@
 ![Update](https://img.shields.io/github/last-commit/nicorl/Aleman?label=letztes%20Commit&style=for-the-badge)
 
-Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 y ahora pretendo incluir información del B-1 durante el curso académico 2020-2021. A partir de ahora agregaré cosas de B-2.1 también.
+Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 en la EOI de Lucena, después he ido incluyendo algo de información del B-1 durante el curso académico 2020-2021 y ahora empecé a agregar cosas de B-2.1 también. 
 
 ## Verbos en presente, präteritum y partizip perfekt
 
@@ -20,7 +20,7 @@ Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020
 | schlagen <br> golpear | er schl<span style="color:#4287f5">ä</span>gt | schl<span style="color:#4287f5">u</span>g | hat geschlagen |
 
 
-[El resto, aquí](./vocabulario/verbos-pasado.md)
+[El resto, aquí](./vocabulario/verbos-pasado.md). En azul he marcado mis fallos.
 
 ## Producción oral
 
@@ -29,6 +29,8 @@ Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020
 ## Comprensión lectora y auditiva
 
 [Subtitulos dobles](https://chrome.google.com/webstore/detail/youtube-dual-subtitles) es un plugin para chrome que permite llevar los subs al mismo tiempo tanto en español como en alemán.
+
+* Básico pero que no va nada mal [Extra auf Deutsch](https://www.youtube.com/watch?v=F6khA8eZaD4&list=PLM45RE_YsqS5-S58HSmYOhu2m-tRul9jW)
 
 * Los canales de youtube que mejor me funcionan [HYPERBOLE](https://www.youtube.com/c/hyperboleTV) - [STRG_F](https://www.youtube.com/channel/UCfa7jJFYnn3P5LdJXsFkrjw) -- [DW DEUTSCH](https://www.youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg) - [VICE](https://www.youtube.com/channel/UC-igmPWEsrFykyTWL36r3iQ) - [EASY GERMAN](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
 
