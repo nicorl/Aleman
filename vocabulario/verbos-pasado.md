@@ -25,14 +25,14 @@
 
 | Verbo |	3ª Persona | Präteritum |	Verbo auxiliar + Partizip II | Significado |
 | ----- | ----- | ----- | ----- | ---- |
-| bieten | - | bot|	hat| geboten|	ofrecer|
-| bleiben| - |blieb|	ist| geblieben|	permanecer (bleiben con sein)|
+| bieten | - | bot|	hat geboten|	ofrecer|
+| bleiben| - |blieb|	ist geblieben|	permanecer (bleiben con sein)|
 |denken | - | dachte|	hat gedacht	|pensar|
 |empfehlen|	empfiehlt|	empfahl|	hat empfohlen|	aconsejar|
 |essen|	isst|	aß|	hat gegessen|	comer|
 |fahren	|fährt|	fuhr|	hat/ist gefahren|	conducir (también: viajar en coche)|
 |fallen	|fällt|	fiel|	ist gefallen|	caer|
-|finden| - |		fand|	hat| gefunden	|encontrar|
+|finden| - |		fand|	hat gefunden	|encontrar|
 |geben|	gibt|	gab	|hat gegeben|	dar|
 |gehen| - |		ging	|ist gegangen|	ir (andando)|
 |helfen	|hilft|	half|	hat geholfen|	ayudar|

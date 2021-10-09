@@ -1,6 +1,15 @@
 ![Update](https://img.shields.io/github/last-commit/nicorl/Aleman?label=letztes%20Commit&style=for-the-badge)
 
-Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 y ahora pretendo incluir información del B-1 durante el curso académico 2020-2021.
+Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020 y ahora pretendo incluir información del B-1 durante el curso académico 2020-2021. A partir de ahora agregaré cosas de B-2.1 también.
+
+## Verbos en presente, präteritum y partizip perfekt
+
+| verbo | presente <br> (3ra pers) | präteritum | partizip perfekt | 
+| ----- | ----- | ----- | ----- | 
+| anfangen <br> comenzar | er fängt an | f<span style="color:#4287f5">i</span>ng an | hat angefangen | 
+| bringen <br> traer | er bringt | brachte | hat gebracht |
+
+
 
 ## Producción oral
 
