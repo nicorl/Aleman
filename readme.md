@@ -8,8 +8,17 @@ Apuntes de alemán, que empezaron en el nivel A-2 del curso académico 2019-2020
 | ----- | ----- | ----- | ----- | 
 | anfangen <br> comenzar | er fängt an | f<span style="color:#4287f5">i</span>ng an | hat angefangen | 
 | bringen <br> traer | er bringt | brachte | hat gebracht |
-
-
+| fahren <br> conducir | er f<span style="color:#4287f5">ä</span>hrt | fuhr | ist gefahren |
+| schreiben <br> escribir | er schreibt | schrieb | hat geschrieben | 
+| bekommen <br> recibir | er bekommt | bekam | hat bekommen | 
+| aufstehen <br> levantarse | er steht auf | stand auf | <span style="color:#4287f5">ist</span> aufgestanden |
+| einschlafen <br> acostarse | er schl<span style="color:#4287f5">ä</span>ft ein |  schlief ein | ist eingeschlafen |
+| bieten <br> ofrecer | er bietet | bot | hat geboten |
+| liegen <br> estar (edificio) | er liegt | lag | <span style="color:#4287f5">hat</span> gelegen |
+| rufen <br> llamar | er ruft | rief | hat gerufen |
+| kennen <br> conocer | er kennt | kannt<span style="color:#4287f5">e</span> | hat gekannt |
+| schlagen <br> golpear | er schl<span style="color:#4287f5">ä</span>gt | schl<span style="color:#4287f5">u</span>g | hat geschlagen |
+[El resto, aquí](./gramatica/verbos-pasado.md)
 
 ## Producción oral
 
